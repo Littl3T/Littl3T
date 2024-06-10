@@ -1,5 +1,7 @@
 # Hello, world! 👋
 
+![Pixel Art of Me Walking Through Red/Orange Rocks In Utah](https://github.com/Littl3T/Littl3T/blob/main/git.png)
+
 I'm a 20-year-old passionate about both the art of woodturning and the logic of programming. Currently, I'm a Computer Science student at HEH Belgium, diving deep into the world of technology and coding.
 
 ## 🎓 Education:
